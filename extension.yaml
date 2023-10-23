@@ -2,7 +2,7 @@ title: MiniPaint
 version: 0.0.1
 description: Adds the excellent MiniPaint tool as an extension to omnitool. See https://github.com/viliusle/miniPaint
 author: Georg Zoeller
-origin: https://github.com/georgzoeller/omni-extension-minipaint.git
+origin: https://github.com/omnitool-community/omni-extension-minipaint.git
 client:
   addToWorkbench: true
   fileIntents:
